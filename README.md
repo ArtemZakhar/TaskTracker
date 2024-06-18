@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+The Task Tracker app was developed using:
+
+1. React for building the user interface.
+2. CSS for styling.
+3. Fetch API for interacting with a backend API to manage tasks.
